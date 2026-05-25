@@ -1,10 +1,10 @@
-##Player Survivor
+#Player Survivor#
 
 Jogo 2D desenvolvido em Unity inspirado no estilo Vampire Survivors.
 
 O jogador controla um olho que precisa sobreviver a hordas de inimigos enquanto dispara automaticamente contra outros olhos hostis.
 
-##Tecnologias utilizadas
+#Tecnologias utilizadas#
 Unity
 C#
 Programação Orientada a Objetos
